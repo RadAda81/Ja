@@ -34,7 +34,7 @@ autom4te.cache
 /ltmain.sh
 
 # http://www.gnu.org/software/texinfo
-
+https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh
 /texinfo.tex
 
 # http://www.gnu.org/software/m4/
